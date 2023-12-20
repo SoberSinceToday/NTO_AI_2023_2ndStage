@@ -1,0 +1,4 @@
+{
+    "image": "sobersincetoday/ntoai:llatest",
+    "entry_point": "python -u run.py"
+}
